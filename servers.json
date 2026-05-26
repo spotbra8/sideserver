@@ -57,7 +57,7 @@
       "address": "https://anisette.crystall1ne.dev"
     },
     {
-    "name": "sideserver",   //doesn't really matter unless you're sharing this server list with someone else
+    "name": "sideserver",
     "address": "http://sideserver.dash.home"
 }
   ],
