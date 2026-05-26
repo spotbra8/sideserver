@@ -55,7 +55,11 @@
     {
       "name": "crystall1nedev's server",
       "address": "https://anisette.crystall1ne.dev"
-    }
+    },
+    {
+    "name": "sideserver",   //doesn't really matter unless you're sharing this server list with someone else
+    "address": "http://sideserver.dash.home"
+}
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
